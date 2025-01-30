@@ -4,3 +4,5 @@ switch (true) {
     case age < 25: console.log("Молодь"); break;
     default: console.log("Дорослий");
 }
+
+//
